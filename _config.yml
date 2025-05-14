@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "领先，向前 <br> Good Team @ NJU"
-sidebar-avatar: https://github.com/6f141fc6-7730-4872-b012-5508fa9677bb.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/6f141fc6-7730-4872-b012-5508fa9677bb.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
