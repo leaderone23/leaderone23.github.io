@@ -3,7 +3,7 @@
 
 ### 交易记录
 
-- [我的大前端世界观][20] · [FEDAY](https://fequan.com/2023/) · 2023
+- [我的大前端世界观][20] · [测试](https://github.com/leaderone23/leaderone23.github.io/_posts/hidden/2020-05-05-pl-chart.md) · 2023
 - [前端已死，前端永生][21] · [掘金年度技术演讲](https://juejin.cn/meetings/talk2023) · 2023
 - [React 国情咨文 2022][13] · 第七届中国开源年会 · 2023
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog
