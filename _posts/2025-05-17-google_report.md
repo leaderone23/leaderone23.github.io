@@ -1,3 +1,18 @@
+
+---
+layout:     post
+title:      "Google商业模式与发展报告"
+subtitle:   "研究谷歌的赚钱模式，判断是否值得投资"
+date:       2025-05-17 12:00:00
+author:     "leaderone23"
+
+catalog: true
+tags:
+    - 研究报告
+    - Google
+---
+
+
 本文转载自CSDN上的博客，但修改了一些内容
 >原文链接：https://blog.csdn.net/shizheng_Li/article/details/147027247
 
