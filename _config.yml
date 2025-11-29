@@ -2,9 +2,9 @@
 title: leaderone23 Blog
 SEOTitle: leaderone23的博客 | leaderone23 Blog
 header-img: img/market.png
-email: ericdavis7704@gmail.com
+email: yilinhao2025@163.com
 description: "这里是我的个人博客，研究这个世界"
-keyword: "leaderone23, economy, stock, "
+keyword: "leaderone23, science, technology, economy, stock, "
 url: "https://leaderone23.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
