@@ -2,7 +2,7 @@
 title: Bruceburg
 SEOTitle: leaderone23的博客 | leaderone23 Blog
 header-img: img/market.png
-email: yilinhao2025@163.com
+email: k87qqq@163.com
 description: ""
 keyword: "Science, Technology, Economy, Stock, "
 url: "https://leaderone23.github.io/" # your host, for absolute URL
@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Bruceberg <br> yilinhao2025@163.com"
-sidebar-avatar: https://leaderone23.github.io/img/6f141fc6-7730-4872-b012-5508fa9677bb.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "leaderone23 <br> k87qqq@163.com"
+sidebar-avatar: https://leaderone23.github.io/img/6f141fc6-7730-4872-b012-5508fa9677bb.png # use absolute URL, seeing it's used in both `/` and `/about/
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,6 +91,24 @@ page-mathjax: false
 # Friends
 friends:
   [
-    
-  
+    {
+      title: "arXiv",
+      href: "https://arxiv.org/",
+    },
+    {
+      title: "Berkshire Hathaway",
+      href: "https://www.berkshirehathaway.com/",
+    },
+    {
+      title: "SEC",
+      href: "https://www.sec.gov/",
+    },
+    {
+      title: "Anthropic",
+      href: "https://www.anthropic.com/",
+    },
+    {
+      title: "OpenAI",
+      href: "https://openai.com/",
+    }
   ]
