@@ -1,10 +1,10 @@
 # Site settings
-title: leaderone23 Blog
+title: Bruceburg
 SEOTitle: leaderone23的博客 | leaderone23 Blog
 header-img: img/market.png
 email: yilinhao2025@163.com
-description: "这里是我的个人博客，研究这个世界"
-keyword: "leaderone23, science, technology, economy, stock, "
+description: ""
+keyword: "Science, Technology, Economy, Stock, "
 url: "https://leaderone23.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
